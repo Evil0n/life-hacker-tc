@@ -1,0 +1,17 @@
+.link {
+  color: #7dbfff;
+  font-weight: 700;
+  border-bottom: 1px solid #7dbfff;
+  transition: 0.3s;
+  cursor: pointer;
+
+  &:hover {
+    border-bottom-color: #fff;
+    color: #fff;
+  }
+
+  &--white {
+    color: #fff;
+    border-bottom-color: #fff;
+  }
+}
