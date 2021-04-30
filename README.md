@@ -1,3 +1,6 @@
+[ссылка на github-pages](https://evil0n.github.io/life-hacker-tc/)
+
+
 # create
 
 ## Build Setup
